@@ -12,8 +12,8 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/xxandev"><img src="https://github-readme-stats.vercel.app/api?username=xxandev&show_icons=true&theme=transparent&hide_border=true" width="450" height="180" /></a>
-  <a href="https://github.com/xxandev"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxandev&layout=compact&theme=transparent&hide_border=true" width="450" height="180" /></a>
+  <a href="https://github.com/xxandev"><img src="https://github-readme-stats.vercel.app/api?username=xxandev&show_icons=true&theme=transparent&hide_border=true" width="50%" height="180" /></a>
+  <a href="https://github.com/xxandev"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxandev&layout=compact&theme=transparent&hide_border=true" width="40%" height="180" /></a>
 </p>
 <p align="center"><a href="https://github.com/xxandev"><img src="https://github-readme-activity-graph.vercel.app/graph?username=xxandev&theme=react-dark&hide_border=true" /></a></p>
 <p align="center"><a href="https://github.com/xxandev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=xxandev&theme=dark&hide_border=true&background=00000000" style="width:100%; height:auto; margin-top:10px;" /></a></p>
